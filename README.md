@@ -2,6 +2,8 @@
 
 圆形绿幕镜头
 
+![demo](https://user-images.githubusercontent.com/2844717/173319507-11d604d0-6e77-4a73-8f0c-1c8f1ab57b14.png)
+
 https://neil-pan.com/circle-camera/
 
 将长方形摄像镜头显示为圆形摄像镜头, 以方便直播多镜头时主镜头展示内容，副镜头展示人物
